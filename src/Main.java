@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello Clarusway Team!");
         System.out.println("I created first Java Project and pushed to GitHub");
+        System.out.println("Hi everyone!");
     }
 }
